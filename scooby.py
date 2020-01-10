@@ -1,22 +1,8 @@
 # -*- coding: utf-8 -*-
-# Coded By DemonSad and DroogXK
-# English : This script is in beta, we will release the second version soon.
-# Portuguese : Este script está na versão beta, lançaremos a segunda versão em breve.
-
-# -*- coding: utf-8 -*-
 # Coded By DemonSad and DroogXK (& Bot#3939)
-# English : This script is SHIT, we will release the second version soon.
-# Portuguese : Este script é uma bosta, lançaremos a segunda versão em breve.
-# Script alterado pelo seu amigão Bot#3939
+# English : This script is in beta, we will release the second version soon.
+# Portuguese : Este script esta em beta, lançaremos a segunda versão em breve.
 # REQUIREMENTS: requests (pip install requests) & python 3
-# -----------------------------------------------
-# ANTES: 416 Linhas, 16KB, Código inútil, cheio de repetições e
-# totalmente desorganizado, teste SQLI não funcional kkkk, entupido de bugs,
-# comparações sem sentido, uso totalmente errado de try/catch
-# DEPOIS: 61 (sem comentários) Linhas, 5KB, Código limpo e elegante, teste SQLI funcionando,
-# remoção de banners inuteis (aproximadamente 50 linhas de banner).
-# -----------------------------------------------
-# Código antigo: https://github.com/DemonSad/Scooby-Master/blob/master/scooby.py
 from requests import get
 from sys import argv
 
