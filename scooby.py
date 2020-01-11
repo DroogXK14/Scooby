@@ -40,7 +40,7 @@ def sqliTest():
     print('Vulnerability not found on ' + resp.url.strip('%27'))
 
 if len(argv) == 1:
-    print('Try using: python ferramenta_demonsad.py <option number>\n')
+    print('Try using: python scooby.py <option number>\n')
     print('''01) Reverse IP Lookup\n02) Whois\n03) Http Header 
 04) Extract Page Links\n05) DNS Lookup\n06) Admin Panel Finder
 07) Subnet Lookup\n08) GEOIP Lookup\n09) Zone Transfer
